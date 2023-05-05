@@ -1,0 +1,31 @@
+{
+    "doctors": [
+      {
+        "DoctorName":"ASOKAN",
+        "Specialization":"Neurology",
+        "Experience":"10 YEARS + ",
+       "ContactNo":"+91 61279 20748",
+        "EmailID":"asokanneuro@gmail.com",
+        "Photo":"https://www.melivecode.com/users/1.png",
+        "id": 1
+      },
+      {
+        "DoctorName":"MOHAN",
+        "Specialization":"Dermatologists",
+        "Experience":"5 YEARS + ",
+       "ContactNo":"+91 61279 80917",
+        "EmailID":"mohankumarDerma@gmail.com",
+        "Photo":"https://www.melivecode.com/users/1.png",
+        "id": 2
+      },
+      {
+        "DoctorName":"GOKUL",
+        "Specialization":"sAnesthesiologists",
+        "Experience":"8 YEARS + ",
+       "ContactNo":"+91 73278 67885",
+        "EmailID":"gokulkrishnan@gmail.com",
+        "Photo":"https://www.melivecode.com/users/1.png",
+        "id": 2
+      }
+    ]
+}

@@ -1,0 +1,21 @@
+/* FONT CSS */
+@font-face {
+    font-family:brandfont;
+    src: url("/CSS/Maldive.ttf");
+  }
+
+#brand{
+    font-family:brandfont;
+    font-size: 40px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+    color: rgb(70, 70, 70);
+}
+/* SIZE ADJUSTMENTS OF THE CAROUSEL */
+
+.carousel-item{
+    height: 450PX;
+    width:600px;
+    border-radius: 50px;   
+}
+
