@@ -1,9 +1,46 @@
+body{
+    background-image: url("/ASSETS/IMAGES/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 /* FONT CSS */
 @font-face {
     font-family:brandfont;
     src: url("/CSS/Maldive.ttf");
   }
+  @font-face {
+    font-family:banner;
+    src: url("/CSS/Attention-owMjV.otf");
+  }
+  @font-face {
+    font-family:banner1;
+    src: url("/CSS/Please-4B4d9.otf");
+  }
 
+#bantext{
+    position: absolute;
+    font-family:banner;
+   font-weight: bolder;
+   font-size: 55px;
+   top:200px;
+   left:330px;
+   z-index: 2;
+   color:rgb(255, 0, 76);
+   text-shadow: 2px 2px 1px rgb(255, 255, 255);
+
+}
+#bantext1{
+    position: absolute;
+    font-family:banner1;
+   font-weight: bolder;
+   font-size: 55px;
+   top:250px;
+   left:335px;
+   z-index: 1;
+   color:rgb(253, 253, 253);
+   text-shadow: 2px 2px 2px rgb(0, 0, 0);
+
+}
 #brand{
     font-family:brandfont;
     font-size: 40px;
@@ -11,21 +48,35 @@
     letter-spacing: 2px;
     color: rgb(70, 70, 70);
 }
+#btntxt{
+    font-family: banner1 ;
+}
 /* SIZE ADJUSTMENTS OF THE CAROUSEL */
-.carousel {
-    border-radius: 55px 55px 55px 55px;
-    height: 500px;
-    margin-bottom: 60px;
-    margin-top: 40px;
-    margin-left: 200px;
-    margin-right: 200px;
-}
-.carousel-item{
-    height: 450PX;
-    width:600px;
-     
-}
-img {
-    border-radius: 55px 55px 55px 55px;
-}
+.carousel-inner {
+    width:940px;
+    height:560px;
+    border-radius: 50px;
+  }
+
+  .car{
+    width:940px;
+    height:560px;
+  }
+  #carouselExampleControls{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:50px;
+    height: 560px;
+    width: 940px;
+    filter: drop-shadow(5px 5px 15px rgb(150, 150, 150));
+  }
+
+  td {
+    line-height: 3rem;
+  }
+
+  .table{
+    margin-top:50px;
+  }
+
 
