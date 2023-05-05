@@ -1,66 +1,48 @@
 {
   "doctors": [
     {
-      "id": 1,
-      "DoctorName": "ASOKAN",
+      "DoctorName": "VIKRAM",
       "Specialization": "Neurology",
       "Experience": "10 YEARS + ",
-      "ContactNo": "+91 61279 20748",
+      "ContactNo": "6127920750",
       "EmailID": "asokanneuro@gmail.com",
-      "Photo": "https://www.melivecode.com/users/1.png"
+      "Photo": "ASSETS/IMAGES/3.png",
+      "id": 1
     },
     {
-      "id": 2,
       "DoctorName": "MOHAN",
       "Specialization": "Dermatologists",
       "Experience": "5 YEARS + ",
-      "ContactNo": "+91 61279 80917",
+      "ContactNo": "6127980917",
       "EmailID": "mohankumarDerma@gmail.com",
-      "Photo": "https://www.melivecode.com/users/1.png"
+      "Photo": "ASSETS/IMAGES/1.png",
+      "id": 2
     },
     {
       "DoctorName": "GOKUL",
       "Specialization": "Anesthesiologists",
-      "Experience": "8 YEARS + ",
-      "ContactNo": "+91 73278 67885",
+      "Experience": "8 YEARS",
+      "ContactNo": "7327867885",
       "EmailID": "gokulkrishnan@gmail.com",
-      "Photo": "https://www.melivecode.com/users/1.png",
+      "Photo": "ASSETS/IMAGES/2.png",
       "id": 3
     },
     {
-      "DoctorName": "harshan",
-      "Specialization": "mbbs",
-      "Experience": "5",
-      "ContactNo": "165464163",
-      "EmailID": "20bca240@srcas.ac.in",
-      "Photo": "https://www.melivecode.com/users/1.png",
-      "id": 4
-    },
-    {
-      "DoctorName": "harshan",
-      "Specialization": "mbbs",
-      "Experience": "5",
-      "ContactNo": "+6+62",
-      "EmailID": "20bca240@srcas.ac.in",
-      "Photo": "https://www.melivecode.com/users/1.png",
-      "id": 5
-    },
-    {
-      "DoctorName": "",
-      "Specialization": "",
-      "Experience": "",
-      "ContactNo": "",
-      "EmailID": "sadasd",
-      "Photo": "https://www.melivecode.com/users/1.png",
+      "DoctorName": "NITHY",
+      "Specialization": "PHARMA",
+      "Experience": "3 years",
+      "ContactNo": "1234546546",
+      "EmailID": "sandeepprakashaalva@gmail.com",
+      "Photo": "ASSETS/IMAGES/2F.png",
       "id": 6
     },
     {
-      "DoctorName": "harshan",
-      "Specialization": "mbbs",
-      "Experience": "5",
-      "ContactNo": "21332",
-      "EmailID": "20bca240@srcas.ac.in",
-      "Photo": "https://www.melivecode.com/users/1.png",
+      "DoctorName": "HARITHA",
+      "Specialization": "DERMATOLOGISTS",
+      "Experience": "2 years",
+      "ContactNo": "9874561230",
+      "EmailID": "haritha2@gmail.com",
+      "Photo": "ASSETS/IMAGES/3F.png",
       "id": 7
     }
   ]
