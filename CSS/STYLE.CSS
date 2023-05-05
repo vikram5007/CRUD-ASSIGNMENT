@@ -12,10 +12,20 @@
     color: rgb(70, 70, 70);
 }
 /* SIZE ADJUSTMENTS OF THE CAROUSEL */
-
+.carousel {
+    border-radius: 55px 55px 55px 55px;
+    height: 500px;
+    margin-bottom: 60px;
+    margin-top: 40px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
 .carousel-item{
     height: 450PX;
     width:600px;
-    border-radius: 50px;   
+     
+}
+img {
+    border-radius: 55px 55px 55px 55px;
 }
 
